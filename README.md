@@ -17,8 +17,15 @@ https://vercel.com/andrewtoledos-projects/projeto-memoteca
 - **Listar Pensamentos:** Veja todos os pensamentos cadastrados em um mural interativo.
 - **Filtrar Pensamentos:** Pesquise e filtre pensamentos por conteúdo ou data.
 
-## Tecnologias Utilizadas
 
+### Conteúdos Abordados
+- Instalar e utilizar o Angular CLI;
+- Criar uma aplicação Angular;
+- Estrutura da aplicação gerada pelo Angular CLI;
+- Criar e utilizar um componente Angular;
+- Inserimos a fonte, as cores e estilos.
+
+## Tecnologias Utilizadas
 - **Angular:** Framework principal utilizado para desenvolver a aplicação front-end.
 - **TypeScript:** Linguagem utilizada para desenvolvimento, aproveitando sua tipagem estática.
 - **HTML5:** Estruturação e apresentação dos componentes visuais.
