@@ -5,8 +5,7 @@ Memoteca é um projeto desenvolvido como parte do curso de Angular da Alura. Tra
 
 ## Projeto ainda em desenvolvimento
 
-
-https://vercel.com/andrewtoledos-projects/projeto-memoteca
+https://projeto-memoteca.vercel.app/
 
 
 ## Funcionalidades
