@@ -23,13 +23,24 @@ https://projeto-memoteca.vercel.app/
 - Estrutura da aplicação gerada pelo Angular CLI;
 - Criar e utilizar um componente Angular;
 - Inserimos a fonte, as cores e estilos.
-
+------------------------------------------------------
 - Criar componente de formulário para adicionar novos pensamentos.
 - Property binding: Passar valores de uma propriedade do component para atributos de tag dentro do template.
 - Interpolação: Mostrar valores de propriedades do component no template.
 - Event binding: Escutar eventos do template e fazer a chamada de métodos no component.
 - ngModel: Usar a diretiva ngModel do FormsModule para comunicação bidirecional entre component e template.
 - Comunicação entre component e template: Entendimento dos diferentes tipos de comunicação.
+------
+- Utilizar o RouterModule;
+- Utilizar a diretiva <router-outlet>;
+- Criar e configurar rotas;
+- Navegar por meio da propriedade routerLink.
+
+## Conteúdos a Fazer:
+- Diretivas
+- Comunicação com o Backend
+- Requisição HTTP
+
 
 ## Tecnologias Utilizadas
 - **Angular:** Framework principal utilizado para desenvolver a aplicação front-end.
