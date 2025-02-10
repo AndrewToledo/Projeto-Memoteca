@@ -37,11 +37,8 @@ https://projeto-memoteca.vercel.app/
 - Navegar por meio da propriedade routerLink.
 
 ## Conteúdos a Fazer:
-- Diretivas
 - Comunicação com o Backend
-- Requisição HTTP
-
-
+- 
 ## Tecnologias Utilizadas
 - **Angular:** Framework principal utilizado para desenvolver a aplicação front-end.
 - **TypeScript:** Linguagem utilizada para desenvolvimento, aproveitando sua tipagem estática.
