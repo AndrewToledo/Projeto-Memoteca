@@ -38,7 +38,7 @@ https://projeto-memoteca.vercel.app/
 
 ## Conteúdos a Fazer:
 - Comunicação com o Backend
-- 
+
 ## Tecnologias Utilizadas
 - **Angular:** Framework principal utilizado para desenvolver a aplicação front-end.
 - **TypeScript:** Linguagem utilizada para desenvolvimento, aproveitando sua tipagem estática.
