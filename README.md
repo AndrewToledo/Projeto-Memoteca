@@ -67,19 +67,24 @@ Para rodar o projeto localmente, siga os passos abaixo:
    npm install
    ```
 
-4. Inicie o servidor JSON:
-   ```bash
-   npm run server
-   ```
-
-5. Execute a aplicação Angular:
+4. Execute a aplicação Angular:
    ```bash
    ng serve
    ```
 
-6. Abra seu navegador e acesse:
+5. Abra seu navegador e acesse:
    ```
    http://localhost:4200
+
+6. Navegue até a pasta do backend
+   ```bash
+   cd backend
+
+7. Execute
+   ```bash
+   npm start
    ```
+
+   
 
 
