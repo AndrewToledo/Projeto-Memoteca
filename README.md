@@ -2,9 +2,6 @@
 
 Memoteca é um projeto desenvolvido como parte do curso de Angular da Alura. Trata-se de um mural de pensamentos e anotações onde os usuários podem compartilhar suas ideias e reflexões de forma simples e dinâmica.
 
-
-## Projeto ainda em desenvolvimento
-
 https://projeto-memoteca.vercel.app/
 
 ## Imagens do projeto
