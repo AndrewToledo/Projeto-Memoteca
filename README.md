@@ -36,9 +36,6 @@ https://projeto-memoteca.vercel.app/
 - Criar e configurar rotas;
 - Navegar por meio da propriedade routerLink.
 
-## Conteúdos a Fazer:
-- Comunicação com o Backend
-
 ## Tecnologias Utilizadas
 - **Angular:** Framework principal utilizado para desenvolver a aplicação front-end.
 - **TypeScript:** Linguagem utilizada para desenvolvimento, aproveitando sua tipagem estática.
